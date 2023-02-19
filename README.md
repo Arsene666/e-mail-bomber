@@ -1,7 +1,7 @@
 # e-mail-bomber
 An e-mail bomber that spams mails to a chosen e-mail over smtp
 
-All libraries are preinstalled by default so all you need is python on your computer to use the e-mail bomber. To use this tool you must also generate an app password which is pretty easy. I will list a youtube tutorial at the bottom of this readme.
+All libraries are preinstalled by default so all you need is python on your computer and a generated app password to use this tool. You must generate an app password which is pretty easy. I will list a youtube tutorial at the bottom of this readme.
 
 IF YOU USE e-mail bomber for gmail.py
 
