@@ -16,6 +16,7 @@ If yahoo decides to fix the app password issue in the future or you can create a
 
 
 https://www.youtube.com/watch?v=J4CtP1MBtOE
+
 This was made for educational purposes.
 
 
